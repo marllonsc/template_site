@@ -46,8 +46,9 @@ body {
 /*header section*/
 .hero_area {
   height: 94vh;
-  background: -webkit-gradient(linear, left top, right top, from(#864ddf), to(#203376));
-  background: linear-gradient(to right, #864ddf, #203376);
+  background: -webkit-gradient(linear, left top, right top, from(#2a2a2a), to(#bdbdbd));
+  background: linear-gradient(to right, #2a2a2a, #bdbdbd);
+  /*background-image:  url("../images/logo.png") ;*/
 }
 
 .hero_area::before {
@@ -55,7 +56,7 @@ body {
   position: absolute;
   width: 58%;
   height: 86%;
-  background-image: url(../images/hero-bg.png);
+  background-image: url(../images/logo2.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   top: 25px;
@@ -214,7 +215,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 14px;
   background-position: center;
-  background-color: #383a90;
+  background-color: #87808f;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -330,7 +331,7 @@ a:focus {
   color: #f9fcfb;
   background-image: url(../images/service-bg.png);
   background-size: 100% 100%;
-  padding-top: 275px;
+  padding-top: 422px;
   padding-bottom: 125px;
   background-repeat: no-repeat;
   margin-top: -150px;
@@ -435,8 +436,8 @@ a:focus {
 
 .why_section {
   color: #f9fcfb;
-  background: -webkit-gradient(linear, left top, right top, from(#1b3374), to(#8f4fe8));
-  background: linear-gradient(to right, #1b3374, #8f4fe8);
+  background: -webkit-gradient(linear, left top, right top, from(#2a2a2a), to(#bdbdbd));
+  background: linear-gradient(to right, #2a2a2a, #bdbdbd);
 }
 
 .why_section .custom_heading-container h2 {
@@ -483,7 +484,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 14px;
   background-position: center;
-  background-color: #383a90;
+  background-color: #87808f;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -526,7 +527,7 @@ a:focus {
 .client_container .detail-box .img-box {
   width: 75px;
   margin-right: 15px;
-  border: 10px solid #9852f2;
+  border: 10px solid #87808f;
   border-radius: 100%;
   overflow: hidden;
 }
@@ -581,7 +582,7 @@ a:focus {
 .contact_section button {
   display: inline-block;
   padding: 12px 40px;
-  background-color: #a053f9;
+  background-color: #87808f;
   color: #f9fcfb;
   border-radius: 5px;
   -webkit-box-shadow: 0px 2px 7px 0px rgba(32, 50, 117, 0.26);
