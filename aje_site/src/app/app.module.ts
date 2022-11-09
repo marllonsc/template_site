@@ -17,7 +17,8 @@ import { BtntalkComponent } from './btntalk/btntalk.component';
   ],
   providers: [],
   bootstrap: [
-    AppComponent
+    AppComponent,
+    BtntalkComponent
   ]
 })
 export class AppModule { }
