@@ -7536,6 +7536,13 @@ button.bg-dark:focus {
 
 .p-3 {
   padding: 1rem !important;
+  background-color: #000401;
+  opacity: 0.5;
+  border-radius: 45px;
+}
+
+.btn-radios{
+  border-radius: 45px;
 }
 
 .pt-3,
