@@ -4,14 +4,12 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BtntalkComponent } from './btntalk/btntalk.component';
-import { BannerComponent } from './banner/banner.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    BtntalkComponent,
-    BannerComponent
+    BtntalkComponent
   ],
   imports: [
     BrowserModule,
@@ -20,8 +18,7 @@ import { BannerComponent } from './banner/banner.component';
   providers: [],
   bootstrap: [
     AppComponent,
-    BtntalkComponent,
-    BannerComponent
+    BtntalkComponent
   ]
 })
 export class AppModule { }
