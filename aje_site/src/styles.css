@@ -9,7 +9,13 @@
 @import 'assets/css/topo/font-awesome.css';
 @import 'assets/css/topo/lightbox.css';
 @import 'assets/css/topo/templatemo-klassy-cafe.css';
+
 */
+
+@import 'assets/css/bootstrap.min.css';
+@import 'assets/css/style.css';
+@import 'assets/css/responsive.css';
+@import 'assets/css/jquery.mCustomScrollbar.min.css';
 
 
 
