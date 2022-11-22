@@ -1,21 +1,25 @@
 
-@media screen and (max-width: 1580px) {
+@media screen and (max-width: 1578px) {
   .conv {
     display: none;
   }
   .menuconv{
     right: none;
   }
+  .btn_menu{
+    display: block;
+  }
 }
 
-@media screen and (min-width: 1580px) {
+@media screen and (min-width: 1578px) {
   .menuconv{
-    right: 300px;
+    right: 280px;
   }
   .conv {
-    display: block;
-    left: 1241px;
-    bottom: 80px;
+    left: 85%; top: 40%; position: absolute;
+  }
+  .btn_menu{
+    display: none;
   }
 }
 
@@ -23,12 +27,19 @@
 
 @media screen and (min-width: 1669px) {
   .menuconv{
-    right: 300px;
+    right: 280px;
   }
   .conv {
-    display: block;
-    left: 1550px    ;
-    bottom: 80px;
+    left: 85%; top: 40%; position: absolute;
+  }
+  .btn_menu{
+    display: none;
   }
 }
 
+@media (min-width: 1309px){
+  .nooneblack {
+    display: flex  !important;
+    flex-basis: auto;
+  }
+}
