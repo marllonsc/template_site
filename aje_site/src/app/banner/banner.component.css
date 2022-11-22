@@ -2594,7 +2594,7 @@ fieldset:disabled a.btn {
 
 .btn-light:hover {
   color: #212529;
-  background-color: #ececec;
+  background-color: #03cafc;
   border-color: #e6e6e6;
 }
 
@@ -9551,7 +9551,7 @@ h4, h5, h6 {
   bottom: 0;
   /*background: rgba(0, 0, 0, 0.5);*/
   background: #22395d;
-  opacity: 0.8;
+  opacity: 0.9;
   z-index: 1;
 }
 
