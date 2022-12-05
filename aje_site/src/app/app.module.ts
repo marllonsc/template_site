@@ -5,13 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BtntalkComponent } from './btntalk/btntalk.component';
 import { BannerComponent } from './banner/banner.component';
+import { ServiceComponent } from './service/service.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     BtntalkComponent,
-    BannerComponent
+    BannerComponent,
+    ServiceComponent
   ],
   imports: [
     BrowserModule,
