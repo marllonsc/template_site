@@ -966,4 +966,38 @@ ul.social_icon li a i:hover {
 }
 
 
+@media screen and (max-width: 1578px) {
+
+     .cont-margin{
+          margin-left: none;
+     }
+     .add-margin{
+          margin-top: none;
+          margin-left: none;
+     }
+     .add-margin2{
+          margin-top: 10%;
+          margin-left: 17%;
+     }
+     .row-add{
+          margin-left: none;
+     }
+   }
+
+   @media screen and (min-width: 1578px) {
+     .cont-margin{
+          margin-left: 26%;
+     }
+     .add-margin{
+          margin-top: 18%; margin-left: -16%;
+     }
+     .add-margin2{
+          width: 105%;
+     }
+     .row-add{
+          margin-left: -32%;
+     }
+   }
+
+
 /** end footer **/

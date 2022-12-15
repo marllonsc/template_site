@@ -26,7 +26,11 @@ import { FooterComponent } from './footer/footer.component';
   providers: [],
   bootstrap: [
     AppComponent,
-    BtntalkComponent
+    BtntalkComponent,
+    BannerComponent,
+    ServiceComponent,
+    AboutComponent,
+    FooterComponent
   ]
 })
 export class AppModule { }
