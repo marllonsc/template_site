@@ -732,6 +732,25 @@ a:focus {
 .footer_section a {
   color: #f9fcfb;
 }
+/*none*/
+@media screen and (max-width: 1200px) {
+  #buttonCTA{
+    width:none; font-size: none; font-weight: bold; font-family: gotham_mediumregular;
+  }
+  .section-about{
+    margin-top:-7%; background-image: linear-gradient(white,white,white, white,white,#212120);
+  }
+}
+
+/*values*/
+@media screen and (min-width: 1578px) {
+  #buttonCTA{
+    width: 30%; font-size: 190%; font-weight: bold; font-family: gotham_mediumregular;
+  }
+  .section-about{
+    margin-top:-3%; background-image: linear-gradient(white,white,white, white,white,#212120);
+  }
+}
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */

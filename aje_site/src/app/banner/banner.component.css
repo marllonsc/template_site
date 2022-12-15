@@ -9661,3 +9661,117 @@ h4, h5, h6 {
   padding: 0;
   list-style-type: none;
 }
+
+/*none*/
+@media screen and (max-width: 1361px) {
+  .p3-b1{
+    max-width: 1120px; margin-top: -23%;
+  }
+  .p3-b2{
+    max-width: 1120px; margin-top: -23%;
+  }
+  .p3-b3{
+    max-width: 1120px; margin-top: -23%;
+  }
+
+  .h5-b1{
+    font-weight: bold; font-family: gotham_blackregular; font-size: 220%;
+    margin-top: 60%;
+  }
+  .h5-b2{
+    font-weight: bold;  font-family: gotham_blackregular; font-size: 220%;
+    margin-top: 60%;
+  }
+  .h5-b3{
+    font-family: gotham_blackregular; font-weight: bold; font-size: 220%;
+    margin-top: 60%;
+  }
+
+  .h6-b1{
+    font-weight: bold;  font-size: 130%;font-family: gotham_mediumregular;
+  }
+  .h6-b2{
+    font-weight: bold; font-size:130%;font-family: gotham_mediumregular;
+  }
+  .h6-b3{
+    font-weight: bold;  font-size:  130%;font-family: gotham_mediumregular;
+  }
+
+  .a-b1{
+
+  }
+  .a-b2{
+
+  }
+  .a-b3{
+
+  }
+
+  .i-b1{
+    opacity: 1; margin-bottom: 8%; width: 78%;
+  }
+  .i-b2{
+    opacity: 1; margin-bottom: 8%; width: 78%;
+  }
+  .i-b3{
+    opacity: 1; margin-bottom: 8%; width: 78%;
+  }
+}
+
+/*values*/
+@media screen and (min-width: 1361px) {
+  .p3-b1{
+    max-width: 1120px; margin-top: -147px;
+  }
+  .p3-b2{
+    max-width: 1120px; margin-top: -147px;
+  }
+  .p3-b3{
+    max-width: 1120px; margin-top: -147px;
+  }
+
+  .h5-b1{
+    font-weight: bold; font-family: gotham_blackregular; font-size: 250%;
+    margin-top: 50%;
+  }
+  .h5-b2{
+    font-weight: bold;  font-family: gotham_blackregular; font-size: 250%;
+    margin-top: 50%;
+  }
+  .h5-b3{
+    font-family: gotham_blackregular; font-weight: bold; font-size: 250%;
+    margin-top: 50%;
+  }
+
+  .h6-b1{
+    font-weight: bold;  font-size: 190%;font-family: gotham_mediumregular;
+  }
+  .h6-b2{
+    font-weight: bold; font-size:190%;font-family: gotham_mediumregular;
+  }
+  .h6-b3{
+    font-weight: bold;  font-size:  190%;font-family: gotham_mediumregular;
+  }
+
+
+  .a-b1{
+
+  }
+  .a-b2{
+
+  }
+  .a-b3{
+
+  }
+
+  .i-b1{
+    opacity: 1; margin-bottom: 11%; width: 79%;
+  }
+  .i-b2{
+    opacity: 1; margin-bottom: 11%; width: 79%;
+  }
+  .i-b3{
+    opacity: 1; margin-bottom: 11%; width: 79%;
+  }
+
+}

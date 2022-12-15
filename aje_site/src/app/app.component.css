@@ -9,6 +9,9 @@
   .btn_menu{
     display: block;
   }
+  .logo{
+    border-radius: 64px; width: 40%;
+  }
 }
 
 @media screen and (min-width: 1578px) {
@@ -20,6 +23,10 @@
   }
   .btn_menu{
     display: none;
+  }
+
+  .logo{
+    border-radius: 64px; width: 60%;
   }
 }
 
